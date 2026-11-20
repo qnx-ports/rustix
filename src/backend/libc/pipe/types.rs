@@ -23,6 +23,7 @@ bitflags! {
             target_os = "horizon",
             target_os = "hurd",
             target_os = "nto",
+            target_os = "qnx",
             target_os = "openbsd",
             target_os = "redox",
             target_os = "vita",

@@ -277,6 +277,7 @@ mod tests {
             target_os = "cygwin",
             target_os = "haiku",
             target_os = "nto",
+            target_os = "qnx",
             target_os = "redox",
             target_os = "wasi",
         )))]

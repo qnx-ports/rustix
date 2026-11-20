@@ -5,10 +5,19 @@ use core::fmt;
 use crate::backend::c;
 use crate::ffi;
 
+#[cfg(not(target_os = "qnx"))]
 /// A group identifier as a raw integer.
 pub type RawGid = ffi::c_uint;
+#[cfg(target_os = "qnx")]
+/// A group identifier as a raw integer.
+pub type RawGid = ffi::c_int;
+
+#[cfg(not(target_os = "qnx"))]
 /// A user identifier as a raw integer.
 pub type RawUid = ffi::c_uint;
+#[cfg(target_os = "qnx")]
+/// A user identifier as a raw integer.
+pub type RawUid = ffi::c_int;
 
 /// `uid_t`—A Unix user ID.
 #[repr(transparent)]

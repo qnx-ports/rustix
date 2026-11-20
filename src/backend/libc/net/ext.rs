@@ -85,6 +85,7 @@ pub(crate) const fn sockaddr_in6_new(
         target_os = "haiku",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita"
     ))]
     sin6_len: u8,
@@ -102,6 +103,7 @@ pub(crate) const fn sockaddr_in6_new(
             target_os = "haiku",
             target_os = "hurd",
             target_os = "nto",
+            target_os = "qnx",
             target_os = "vita"
         ))]
         sin6_len,

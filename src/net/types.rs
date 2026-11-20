@@ -101,6 +101,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -120,6 +121,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -154,6 +156,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -170,6 +173,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -186,6 +190,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -201,6 +206,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -217,6 +223,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -242,6 +249,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -258,6 +266,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -273,6 +282,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -293,6 +303,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -309,6 +320,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -325,6 +337,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -341,6 +354,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -357,6 +371,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -381,6 +396,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -397,6 +413,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -413,6 +430,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -429,6 +447,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -445,6 +464,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -461,6 +481,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -491,6 +512,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -507,6 +529,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -537,6 +560,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -553,6 +577,7 @@ impl AddressFamily {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -563,7 +588,7 @@ impl AddressFamily {
     #[cfg(target_os = "fuchsia")]
     /// `AF_ALG`
     pub const ALG: Self = Self(c::AF_ALG as _);
-    #[cfg(any(target_os = "freebsd", target_os = "netbsd", target_os = "nto"))]
+    #[cfg(any(target_os = "freebsd", target_os = "netbsd", target_os = "nto", target_os = "qnx"))]
     /// `AF_ARP`
     pub const ARP: Self = Self(c::AF_ARP as _);
     /// `AF_ATM`
@@ -573,19 +598,19 @@ impl AddressFamily {
     #[cfg(any(target_os = "android", target_os = "emscripten", target_os = "fuchsia"))]
     pub const CAIF: Self = Self(c::AF_CAIF as _);
     /// `AF_CCITT`
-    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto"))]
+    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto", target_os = "qnx"))]
     pub const CCITT: Self = Self(c::AF_CCITT as _);
     /// `AF_CHAOS`
-    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto"))]
+    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto", target_os = "qnx"))]
     pub const CHAOS: Self = Self(c::AF_CHAOS as _);
     /// `AF_CNT`
-    #[cfg(any(bsd, target_os = "nto"))]
+    #[cfg(any(bsd, target_os = "nto", target_os = "qnx"))]
     pub const CNT: Self = Self(c::AF_CNT as _);
     /// `AF_COIP`
-    #[cfg(any(bsd, target_os = "nto"))]
+    #[cfg(any(bsd, target_os = "nto", target_os = "qnx"))]
     pub const COIP: Self = Self(c::AF_COIP as _);
     /// `AF_DATAKIT`
-    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto"))]
+    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto", target_os = "qnx"))]
     pub const DATAKIT: Self = Self(c::AF_DATAKIT as _);
     /// `AF_DLI`
     #[cfg(any(
@@ -593,11 +618,12 @@ impl AddressFamily {
         solarish,
         target_os = "aix",
         target_os = "haiku",
-        target_os = "nto"
+        target_os = "nto",
+        target_os = "qnx"
     ))]
     pub const DLI: Self = Self(c::AF_DLI as _);
     /// `AF_E164`
-    #[cfg(any(bsd, target_os = "nto"))]
+    #[cfg(any(bsd, target_os = "nto", target_os = "qnx"))]
     pub const E164: Self = Self(c::AF_E164 as _);
     /// `AF_ECMA`
     #[cfg(any(
@@ -606,6 +632,7 @@ impl AddressFamily {
         solarish,
         target_os = "aix",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "openbsd"
     ))]
     pub const ECMA: Self = Self(c::AF_ECMA as _);
@@ -619,13 +646,13 @@ impl AddressFamily {
     #[cfg(solarish)]
     pub const GOSIP: Self = Self(c::AF_GOSIP as _);
     /// `AF_HYLINK`
-    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto"))]
+    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto", target_os = "qnx"))]
     pub const HYLINK: Self = Self(c::AF_HYLINK as _);
     /// `AF_IB`
     #[cfg(any(target_os = "emscripten", target_os = "fuchsia"))]
     pub const IB: Self = Self(c::AF_IB as _);
     /// `AF_IMPLINK`
-    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto"))]
+    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto", target_os = "qnx"))]
     pub const IMPLINK: Self = Self(c::AF_IMPLINK as _);
     /// `AF_IEEE80211`
     #[cfg(any(apple, freebsdlike, target_os = "netbsd"))]
@@ -643,10 +670,10 @@ impl AddressFamily {
     #[cfg(target_os = "aix")]
     pub const INTF: Self = Self(c::AF_INTF as _);
     /// `AF_ISO`
-    #[cfg(any(bsd, target_os = "aix", target_os = "nto"))]
+    #[cfg(any(bsd, target_os = "aix", target_os = "nto", target_os = "qnx"))]
     pub const ISO: Self = Self(c::AF_ISO as _);
     /// `AF_LAT`
-    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto"))]
+    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto", target_os = "qnx"))]
     pub const LAT: Self = Self(c::AF_LAT as _);
     /// `AF_LINK`
     #[cfg(any(
@@ -654,7 +681,8 @@ impl AddressFamily {
         solarish,
         target_os = "aix",
         target_os = "haiku",
-        target_os = "nto"
+        target_os = "nto",
+        target_os = "qnx",
     ))]
     pub const LINK: Self = Self(c::AF_LINK as _);
     /// `AF_MPLS`
@@ -666,7 +694,7 @@ impl AddressFamily {
     ))]
     pub const MPLS: Self = Self(c::AF_MPLS as _);
     /// `AF_NATM`
-    #[cfg(any(bsd, target_os = "nto"))]
+    #[cfg(any(bsd, target_os = "nto", target_os = "qnx"))]
     pub const NATM: Self = Self(c::AF_NATM as _);
     /// `AF_NBS`
     #[cfg(solarish)]
@@ -696,13 +724,13 @@ impl AddressFamily {
     #[cfg(any(target_os = "emscripten", target_os = "fuchsia"))]
     pub const NFC: Self = Self(c::AF_NFC as _);
     /// `AF_NS`
-    #[cfg(any(apple, solarish, netbsdlike, target_os = "aix", target_os = "nto"))]
+    #[cfg(any(apple, solarish, netbsdlike, target_os = "aix", target_os = "nto", target_os = "qnx"))]
     pub const NS: Self = Self(c::AF_NS as _);
     /// `AF_OROUTE`
     #[cfg(target_os = "netbsd")]
     pub const OROUTE: Self = Self(c::AF_OROUTE as _);
     /// `AF_OSI`
-    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto"))]
+    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto", target_os = "qnx"))]
     pub const OSI: Self = Self(c::AF_OSI as _);
     /// `AF_OSINET`
     #[cfg(solarish)]
@@ -714,7 +742,7 @@ impl AddressFamily {
     #[cfg(apple)]
     pub const PPP: Self = Self(c::AF_PPP as _);
     /// `AF_PUP`
-    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto"))]
+    #[cfg(any(bsd, solarish, target_os = "aix", target_os = "nto", target_os = "qnx"))]
     pub const PUP: Self = Self(c::AF_PUP as _);
     /// `AF_RIF`
     #[cfg(target_os = "aix")]
@@ -727,7 +755,8 @@ impl AddressFamily {
         target_os = "emscripten",
         target_os = "fuchsia",
         target_os = "haiku",
-        target_os = "nto"
+        target_os = "nto",
+        target_os = "qnx"
     ))]
     pub const ROUTE: Self = Self(c::AF_ROUTE as _);
     /// `AF_SCLUSTER`
@@ -884,6 +913,7 @@ pub mod ipproto {
         target_os = "haiku",
         target_os = "horizon",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "openbsd",
         target_os = "redox",
         target_os = "vita",
@@ -946,6 +976,7 @@ pub mod ipproto {
         target_os = "haiku",
         target_os = "horizon",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -961,6 +992,7 @@ pub mod ipproto {
         target_os = "haiku",
         target_os = "horizon",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -1001,6 +1033,7 @@ pub mod ipproto {
         target_os = "haiku",
         target_os = "horizon",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -1031,6 +1064,7 @@ pub mod ipproto {
         target_os = "haiku",
         target_os = "horizon",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -1048,6 +1082,7 @@ pub mod ipproto {
         target_os = "horizon",
         target_os = "netbsd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -1071,6 +1106,7 @@ pub mod ipproto {
         target_os = "haiku",
         target_os = "horizon",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -1099,6 +1135,7 @@ pub mod ipproto {
         target_os = "haiku",
         target_os = "horizon",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
     )))]
@@ -1707,6 +1744,7 @@ bitflags! {
             target_os = "haiku",
             target_os = "horizon",
             target_os = "nto",
+        target_os = "qnx",
             target_os = "vita",
         )))]
         const NONBLOCK = bitcast!(c::SOCK_NONBLOCK);

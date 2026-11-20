@@ -3,6 +3,7 @@
     target_os = "aix",
     target_os = "haiku",
     target_os = "nto",
+    target_os = "qnx",
     target_os = "vita"
 )))]
 use super::types::FileType;
@@ -19,6 +20,7 @@ use crate::fs::{fstat, Stat};
     target_os = "horizon",
     target_os = "netbsd",
     target_os = "nto",
+    target_os = "qnx",
     target_os = "redox",
     target_os = "vita",
     target_os = "wasi",
@@ -204,6 +206,7 @@ impl Dir {
                         target_os = "aix",
                         target_os = "haiku",
                         target_os = "nto",
+                        target_os = "qnx",
                         target_os = "vita"
                     )))]
                     d_type: dirent.d_type,
@@ -246,6 +249,7 @@ impl Dir {
         target_os = "horizon",
         target_os = "netbsd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
         target_os = "wasi",
@@ -322,6 +326,7 @@ pub struct DirEntry {
         target_os = "aix",
         target_os = "haiku",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita"
     )))]
     d_type: u8,
@@ -374,6 +379,7 @@ impl DirEntry {
         target_os = "aix",
         target_os = "haiku",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita"
     )))]
     #[inline]

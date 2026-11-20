@@ -247,6 +247,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]
@@ -283,6 +284,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
         target_os = "wasi",
@@ -334,6 +336,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]
@@ -351,6 +354,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]
@@ -368,6 +372,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]
@@ -385,6 +390,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]
@@ -538,6 +544,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]
@@ -568,6 +575,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]
@@ -649,6 +657,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]
@@ -671,6 +680,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]
@@ -774,6 +784,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]
@@ -903,6 +914,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]
@@ -935,6 +947,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "redox",
         target_os = "vita",
         target_os = "wasi",
@@ -1035,6 +1048,7 @@ impl Errno {
         target_os = "hurd",
         target_os = "l4re",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         target_os = "wasi",
     )))]

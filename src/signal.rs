@@ -95,6 +95,7 @@ impl Signal {
         target_os = "horizon",
         target_os = "hurd",
         target_os = "nto",
+        target_os = "qnx",
         target_os = "vita",
         all(
             linux_kernel,
@@ -316,6 +317,7 @@ impl Signal {
                 target_os = "horizon",
                 target_os = "hurd",
                 target_os = "nto",
+                target_os = "qnx",
                 target_os = "vita",
                 all(
                     linux_kernel,
@@ -424,6 +426,7 @@ impl fmt::Debug for Signal {
                 target_os = "horizon",
                 target_os = "hurd",
                 target_os = "nto",
+                target_os = "qnx",
                 target_os = "vita",
                 all(
                     linux_kernel,

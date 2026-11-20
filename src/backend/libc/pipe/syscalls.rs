@@ -9,6 +9,7 @@ use crate::io;
     target_os = "haiku",
     target_os = "horizon",
     target_os = "nto",
+    target_os = "qnx",
     target_os = "wasi"
 )))]
 use crate::pipe::PipeFlags;
@@ -40,6 +41,7 @@ pub(crate) fn pipe() -> io::Result<(OwnedFd, OwnedFd)> {
     target_os = "haiku",
     target_os = "horizon",
     target_os = "nto",
+    target_os = "qnx",
     target_os = "wasi"
 )))]
 pub(crate) fn pipe_with(flags: PipeFlags) -> io::Result<(OwnedFd, OwnedFd)> {

@@ -205,7 +205,7 @@ pub(crate) mod ugid;
 #[cfg(bsd)]
 const MAX_IOV: usize = c::IOV_MAX as usize;
 
-#[cfg(any(linux_kernel, target_os = "emscripten", target_os = "nto"))]
+#[cfg(any(linux_kernel, target_os = "emscripten", target_os = "nto", target_os = "qnx"))]
 const MAX_IOV: usize = c::UIO_MAXIOV as usize;
 
 #[cfg(not(any(
@@ -215,6 +215,7 @@ const MAX_IOV: usize = c::UIO_MAXIOV as usize;
     target_os = "emscripten",
     target_os = "espidf",
     target_os = "nto",
+    target_os = "qnx",
     target_os = "horizon",
 )))]
 const MAX_IOV: usize = 16; // The minimum value required by POSIX.
